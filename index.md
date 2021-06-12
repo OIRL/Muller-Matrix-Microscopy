@@ -55,4 +55,28 @@ The agreement between the experimental and theoretical Mueller matrices is high.
 ### Script 
 The computational method to estimate the Mueller matrix from 36 intensity-based images is implemented in Python and MATLAB. 
 
-* [Download MATLAB script](https://drive.google.com/file/d/1Z_uzQeUmP79HdQMYWdQggInOGumdvZ
+* [Download MATLAB script](https://drive.google.com/file/d/1Z_uzQeUmP79HdQMYWdQggInOGumdvZ)
+* [Download Python script](https://drive.google.com/file/d/1Z_uzQeUmP79HdQMYWdQggInOGumdvZ)
+
+### Samples
+We have available the 36 intensity-based experimental images of:
+- [A linear polarizer oriented at 90°] (add a link to download the images)
+- [A linear polarizer oriented at 45°] (add a link to download the images)
+- [A linear quarter-wave plate at 45°] (add a link to download the images)
+
+### Funding
+This project has received funding from the University of Memphis (Memphis, TN, United States) and EAFIT University (Medellin, Antioquia, Colombia).
+
+### Citation
+If using this information for publication, please kindly cite the following paper:
+S. Obando-Vasquez, A. Doblas, and C. Trujillo, “Apparatus and method to estimate the Mueller matrix in bright-field microscopy,” Applied Optics, under review (2021).
+
+### Support or Contact 
+
+| Researcher  | email | Google Scholar | 
+| ------------- | ------------- |-------------| 
+| Sofia Obando-Vasquez | *sobandov@eafit.edu.co* |  | 
+| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) |
+| Carlos Trujillo| *catrujilla@eafit.edu.co* | [CarlosGoogle](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=es) |
+
+
