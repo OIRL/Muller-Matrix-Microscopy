@@ -29,7 +29,7 @@ From the recorded 36 intensity-based images, we have estimated their correspondi
 ![Matrix at 90 deg theoretical and experiemntal](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Matrix_90_Theo_and_Exp.png "Matrix at 90 deg theoretical and experiemntal")
 
 
-![Matrix at 45 deg theoretical and experiemntal](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Matrix_45_Theo_and_Exp.png "Matrix at 45 deg theoretical and experiemntal")
+![Matrix at 45 deg theoretical and experiemntal]( "Matrix at 45 deg theoretical and experiemntal")
 
 
 The agreement between the experimental and theoretical Mueller matrices is high. Table 1 compares the experimental and theoretical polarimetric parameters (diattenuation, polarization, depolarization, and angle of polarization) of the linear polarizer for both orientation angles. Again, the degree of correlation between theoretical and experimental results is very high.
