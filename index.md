@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Determination of the Mueller matrix from intensity-based images recorded by a bright-field microscope
 
 You can use the [editor on GitHub](https://github.com/OIRL/Muller-Matrix-Microscopy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
