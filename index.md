@@ -8,6 +8,7 @@ Polarization-sensitive microscopy is a technique that allows obtaining the polar
 ### Method to estimate the Mueller matrix
 Here, we propose a computation method to estimate the Mueller matrix for a complex sample whose polarimetric properties vary across its transverse field of view. The method requires 36 images that are recorded by changing the polarization state of both the polarization state generator (PSG) and polarization state analyzer (PSA) systems. Based on these polarization states of PSG and PSA systems, the Mueller matrix, M¸ is
 
+<img src="https://latex.codecogs.com/gif.latex?M=\begin{bmatrix}m_{00}&m_{01}&m_{02}&m_{03}\\m_{10}&m_{11}&m_{12}&m_{13}\\m_{20}&m_{21}&m_{22}&m_{23}\\m_{30}&m_{31}&m_{32}&m_{33}&space;\end{bmatrix}" title="M=\begin{bmatrix}m_{00}&m_{01}&m_{02}&m_{03}\\m_{10}&m_{11}&m_{12}&m_{13}\\m_{20}&m_{21}&m_{22}&m_{23}\\m_{30}&m_{31}&m_{32}&m_{33} \end{bmatrix}" />
 
 where each element of the Mueller matrix is estimated by adding and/or subtracting 4 of the 36 images 
 
