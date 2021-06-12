@@ -70,6 +70,7 @@ This project has received funding from the University of Memphis (Memphis, TN, U
 
 ### Citation
 If using this information for publication, please kindly cite the following paper:
+
 S. Obando-Vasquez, A. Doblas, and C. Trujillo, “Apparatus and method to estimate the Mueller matrix in bright-field microscopy,” Applied Optics, under review (2021).
 
 ### Support or Contact 
