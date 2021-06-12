@@ -20,9 +20,12 @@ The polarization angle θ is only relevant if the optical element is a linear po
 ### Experimental Results
 We have reconstructed the polarimetric information of a linear polarizer (LPVISE100-A, Thorlabs) oriented at two angles: 90 degrees and +45 degrees. The linear in the experimental bright-field microscope is illuminated by a beam of light emerging of a collimated laser-diode-pumped DPSS laser (CPS532, Thorlabs source). The microscope is composed of an infinity-corrected MO with a lateral magnification of 40× and numerical aperture of NA = 0.75 and an TL lens of 200-mm focal length. A Basler acA5472-17um CMOS sensor (5472×3648 pixels, 2.4-µm square pixel size) is placed at the microscope's image plane, allowing the acquisition of the intensity-based images. To provide polarization-sensitive measurements, we insert the PSG and PSA systems in the microscope. The elliptical polarization state of the illumination source was changed to randomly polarized using a quartz depolarizer (DPU-25-A, Thorlabs). Thus, the polarizing elements of the PSG and PSA systems are two linear polarizers (LPVISE100-A, Thorlabs) and two achromatic quarter wave-plates (AQWP10M-580, Thorlabs), see Fig. 1. 
 
-
+![Experiemntal Setup](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Optical_system_Repository.png "Experimental Setup")
 
 From the recorded 36 intensity-based images, we have estimated their corresponding Mueller matrices of the linear polarizer oriented at these two angles, shown in Fig. 2. For both orientation angles, we have estimated the mean and the standard deviation value of each element of the Mueller matrix (values also reported in Fig. 2). The theoretical Mueller matrices of the linear polarizer with its transmission axis at 90 degrees and +45 degrees are 
+
+![Matrix at 90 deg theoretical and experiemntal](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Matrix_90_Theo_and_Exp.png "Matrix at 90 deg theoretical and experiemntal")
+
 
 ![Matrix at 45 deg theoretical and experiemntal](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Matrix_45_Theo_and_Exp.png "Matrix at 45 deg theoretical and experiemntal")
 
@@ -45,3 +48,10 @@ This project has received funding from the University of Memphis (Memphis, TN, U
 If using this information for publication, please kindly cite the following paper:
 S. Obando-Vasquez, A. Doblas, and C. Trujillo, “Apparatus and method to estimate the Mueller matrix in bright-field microscopy,” Applied Optics, under review (2021).
 
+### Support or Contact 
+
+| Researcher  | email | Google Scholar | 
+| ------------- | ------------- |-------------| 
+| Sofia Obando-Vasquez | *sobandov@eafit.edu.co* | |
+| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) |
+| Carlos Trujillo| *catrujilla@eafit.edu.co* | [TrujilloGoogle](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=es) | 
