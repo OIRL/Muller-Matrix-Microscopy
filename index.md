@@ -41,6 +41,7 @@ From the recorded 36 intensity-based images, we have estimated their correspondi
 ![Matrix at 45 deg theoretical and experiemntal](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Matrix_45_Theo_and_Exp.png "Matrix at 45 deg theoretical and experiemntal")
 
 Theoretical values of the Mueller matrices.
+
 <img src="https://latex.codecogs.com/gif.latex?LP_{90^{\circ}}=\begin{bmatrix}&space;1&&space;-1&&space;0&0\\&space;-1&&space;1&space;&0&space;&0&space;\\&space;0&space;&0&space;&0&space;&0&space;\\&space;0&space;&0&space;&0&space;&0&space;\end{bmatrix}\:&space;\:&space;\:&space;and\:&space;\:&space;\:&space;LP_{&plus;45^{\circ}}=\begin{bmatrix}&space;1&&space;0&&space;1&0\\&space;0&&space;0&space;&0&space;&0&space;\\&space;1&space;&0&space;&1&space;&0&space;\\&space;0&space;&0&space;&0&space;&0&space;\end{bmatrix}" title="LP_{90^{\circ}}=\begin{bmatrix} 1& -1& 0&0\\ -1& 1 &0 &0 \\ 0 &0 &0 &0 \\ 0 &0 &0 &0 \end{bmatrix}\: \: \: and\: \: \: LP_{+45^{\circ}}=\begin{bmatrix} 1& 0& 1&0\\ 0& 0 &0 &0 \\ 1 &0 &1 &0 \\ 0 &0 &0 &0 \end{bmatrix}" />
 
 The agreement between the experimental and theoretical Mueller matrices is high. The next table compares the experimental and theoretical polarimetric parameters (diattenuation, polarization, depolarization, and angle of polarization) of the linear polarizer for both orientation angles. Again, the degree of correlation between theoretical and experimental results is very high.
@@ -60,9 +61,9 @@ The computational method to estimate the Mueller matrix from 36 intensity-based 
 
 ### Samples
 We have available the 36 intensity-based experimental images of:
-- [A linear polarizer oriented at 90°] (add a link to download the images)
-- [A linear polarizer oriented at 45°] (add a link to download the images)
-- [A linear quarter-wave plate at 45°] (add a link to download the images)
+- [A linear polarizer oriented at 90°](https://drive.google.com/drive/folders/1u70zujLj9CUPks2EQNzlNNtiHQHWrPyz?usp=sharing)
+- [A linear polarizer oriented at 45°](https://drive.google.com/drive/folders/14CXtfBhjAkng5DUwf87z9YdXEjFY3PrT?usp=sharing)
+- [A linear quarter-wave plate at 90°](https://drive.google.com/drive/folders/1cz-D8N_Ybho71kfMRiWMKTtq2mAUIlKy?usp=sharing)
 
 ### Funding
 This project has received funding from the University of Memphis (Memphis, TN, United States) and EAFIT University (Medellin, Antioquia, Colombia).
@@ -78,5 +79,7 @@ S. Obando-Vasquez, A. Doblas, and C. Trujillo, “Apparatus and method to estima
 | Sofia Obando-Vasquez | *sobandov@eafit.edu.co* |  | 
 | Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) |
 | Carlos Trujillo| *catrujilla@eafit.edu.co* | [CarlosGoogle](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=es) |
+
+This Research is a collaboration between Doblas’ and Trujillos’ research lab.
 
 
