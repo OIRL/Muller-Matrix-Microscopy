@@ -24,6 +24,10 @@ We have reconstructed the polarimetric information of a linear polarizer (LPVISE
 
 From the recorded 36 intensity-based images, we have estimated their corresponding Mueller matrices of the linear polarizer oriented at these two angles, shown in Fig. 2. For both orientation angles, we have estimated the mean and the standard deviation value of each element of the Mueller matrix (values also reported in Fig. 2). The theoretical Mueller matrices of the linear polarizer with its transmission axis at 90 degrees and +45 degrees are 
 
+![Matrix at 45 deg theoretical and experiemntal](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Matrix_45_Theo_and_Exp.png "Matrix at 45 deg theoretical and experiemntal")
+
+
+
 The agreement between the experimental and theoretical Mueller matrices is high. Table 1 compares the experimental and theoretical polarimetric parameters (diattenuation, polarization, depolarization, and angle of polarization) of the linear polarizer for both orientation angles. Again, the degree of correlation between theoretical and experimental results is very high.
 
 ### Script 
