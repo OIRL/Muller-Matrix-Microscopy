@@ -45,7 +45,7 @@ Theoretical values of the Mueller matrices.
 
 The agreement between the experimental and theoretical Mueller matrices is high. The next table compares the experimental and theoretical polarimetric parameters (diattenuation, polarization, depolarization, and angle of polarization) of the linear polarizer for both orientation angles. Again, the degree of correlation between theoretical and experimental results is very high.
 
-|  | Linear polaizer at 90° | | Linear polarizer at +45° | |
+|   Linear polaizer at 90°  | Linear polarizer at +45° |
 |:-------:|:--------:|:------:|:------:|:-------:|
 | | Theo. | Exp.           |  Theo. | Exp.            |
 |Diattenuation (a.u)| 1 | 1.01 <img src="https://latex.codecogs.com/gif.latex?\pm" title="\pm" /> 0.37| 1 |1.31 <img src="https://latex.codecogs.com/gif.latex?\pm" title="\pm" /> 0.39|
@@ -56,27 +56,4 @@ The agreement between the experimental and theoretical Mueller matrices is high.
 ### Script 
 The computational method to estimate the Mueller matrix from 36 intensity-based images is implemented in Python and MATLAB. 
 
-* [Download MATLAB script](https://drive.google.com/file/d/1Z_uzQeUmP79HdQMYWdQggInOGumdvZgb/view?usp=sharing)
-
-* [Download Python script](https://drive.google.com/file/d/11WrIFU30zQwAgMMdCH1cybYQhCRFHpjl/view?usp=sharing)
-
-### Samples
-We have available the 36 intensity-based experimental images of:
-- [A linear polarizer oriented at 90°](add a link to download the images)
-- [A linear polarizer oriented at 45°](add a link to download the images)
-- [A quarter-wave plate oriented at 90°](add a link to download the images)
-- 
-### Funding
-This project has received funding from the University of Memphis (Memphis, TN, United States) and EAFIT University (Medellin, Antioquia, Colombia)
-
-### Citation
-If using this information for publication, please kindly cite the following paper:
-S. Obando-Vasquez, A. Doblas, and C. Trujillo, “Apparatus and method to estimate the Mueller matrix in bright-field microscopy,” Applied Optics, under review (2021).
-
-### Support or Contact 
-
-| Researcher  | email | Google Scholar | 
-| ------------- | ------------- |-------------| 
-| Sofia Obando-Vasquez | *sobandov@eafit.edu.co* | |
-| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) |
-| Carlos Trujillo| *catrujilla@eafit.edu.co* | [TrujilloGoogle](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=es) | 
+* [Download MATLAB script](https://drive.google.com/file/d/1Z_uzQeUmP79HdQMYWdQggInOGumdvZ
