@@ -24,9 +24,7 @@ To provide polarization-sensitive measurements, we insert the PSG and PSA system
 
 ![Experiemntal Setup](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Optical_system_Repository.png "Experimental Setup")
 
-From the recorded 36 intensity-based images, we have estimated their corresponding Mueller matrices. For both orientation angles, we have estimated the mean and the standard deviation value of each element of the Mueller matrix (values also reported in Fig. 2). 
-
-The theoretical Mueller matrices of the linear polarizer with its transmission axis at 90 degrees and +45 degrees are 
+From the recorded 36 intensity-based images, we have estimated their corresponding Mueller matrices. Comparison between the theoretical and experimental values for the Mueller matrix of  the LP at the two angular position is shown in Fig. 2. For both orientation angles, we have estimated the mean and the standard deviation value of each element of the Mueller matrix (values also reported in Fig. 2). 
 
 ![Matrix at 90 deg theoretical and experiemntal](https://raw.githubusercontent.com/OIRL/Muller-Matrix-Microscopy/gh-pages/Matrix_90_Theo_and_Exp.png "Matrix at 90 deg theoretical and experiemntal")
 
