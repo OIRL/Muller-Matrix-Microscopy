@@ -66,7 +66,7 @@ We have available the 36 intensity-based experimental images of:
 - [A linear quarter-wave plate at 90°](https://drive.google.com/drive/folders/1cz-D8N_Ybho71kfMRiWMKTtq2mAUIlKy?usp=sharing)
 
 ### Funding
-This project has received funding from the University of Memphis (Memphis, TN, United States) and EAFIT University (Medellin, Antioquia, Colombia).
+This project was partially funded by EAFIT University (Medellin, Antioquia, Colombia), and the National Science Foundation (NSF) (grant number 2042563).
 
 ### Citation
 If using this information for publication, please kindly cite the following paper:
