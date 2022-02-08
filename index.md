@@ -46,7 +46,7 @@ Theoretical values of the Mueller matrices.
 
 The agreement between the experimental and theoretical Mueller matrices is high. The next table compares the experimental and theoretical polarimetric parameters (diattenuation, polarization, depolarization, and angle of polarization) of the linear polarizer for both orientation angles. Again, the degree of correlation between theoretical and experimental results is very high.
 
-||   Linear polaizer at 90°  Theo.|    Linear polaizer at 90° Exp. |Linear polarizer at +45° Theo. |Linear polarizer at +45° Exp. |
+||   Linear polarizer at 90°  Theo.|    Linear polarizer at 90° Exp. |Linear polarizer at +45° Theo. |Linear polarizer at +45° Exp. |
 |:-------:|:--------:|:------:|:------:|:-------:|
 |Diattenuation (a.u)| 1 | 1.01 <img src="https://latex.codecogs.com/gif.latex?\pm" title="\pm" /> 0.37| 1 |1.31 <img src="https://latex.codecogs.com/gif.latex?\pm" title="\pm" /> 0.39|
 |Polarization (a.u)| 1 | 1.05 <img src="https://latex.codecogs.com/gif.latex?\pm" title="\pm" /> 0.36| 1 |1.09 <img src="https://latex.codecogs.com/gif.latex?\pm" title="\pm" /> 0.24|
