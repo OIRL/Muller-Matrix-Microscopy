@@ -71,7 +71,7 @@ This project was partially funded by EAFIT University (Medellin, Antioquia, Colo
 ### Citation
 If using this information for publication, please kindly cite the following paper:
 
-S. Obando-Vasquez, A. Doblas, and C. Trujillo, “Apparatus and method to estimate the Mueller matrix in bright-field microscopy,” Applied Optics, under review (2021).
+S. Obando-Vasquez, A. Doblas, and C. Trujillo, “Apparatus and method to recover the Mueller matrix in bright-field microscopy,” American Journal of Physics 90, 702 (2022). doi: 10/1119/5.0081673.
 
 ### Support or Contact 
 
